@@ -72,3 +72,51 @@ def inpainting(photo):
 # Contributions - Arushi Singh
 
 # Conclusion
+
+# References
+[1]
+
+Sagar, “Laplacian and its use in Blur Detection,” Medium, May 22, 2020. https://medium.com/@sagardhungel/laplacian-and-its-use-in-blur-detection-fbac689f0f88
+
+‌[2]
+
+Priyanka, R. Shukla, and L. Shrivastava, “Image Restoration of Image with Gaussian Filter.” Accessed: Nov. 29, 2025. [Online]. Available: https://www.irjet.net/archives/V7/i12/IRJET-V7I1299.pdf
+
+[3]
+
+A. Sharma, “How to Repair Damaged Images using Inpainting methods in Python using OpenCV,” Medium, Feb. 07, 2022. https://towardsdev.com/how-to-repair-damaged-images-using-inpainting-methods-in-python-using-opencv-339982754137 (accessed Nov. 29, 2025).
+
+‌[4]
+
+“The AI workspace that works for you. | Notion,” Notion, 2025. https://www.notion.so/BLOGS-2b705bf5be1c80bda8c4f380bb081275?source=copy_link#2ba05bf5be1c8019a237cb324b736acd (accessed Nov. 29, 2025).
+
+‌[5]
+
+atduskgreg, “opencv-processing-book/book/filters/in_range.md at master · atduskgreg/opencv-processing-book,” GitHub, 2025. https://github.com/atduskgreg/opencv-processing-book/blob/master/book/filters/in_range.md
+
+[6]
+
+GeeksforGeeks, “Simple Thresholding using OpenCV,” GeeksforGeeks, May 06, 2019. https://www.geeksforgeeks.org/python/simple-thresholdin-using-opencv/
+
+[7]
+
+R. Singh, “Morphological Transformations of Images using OpenCV | Image Processing Part-2,” Analytics Vidhya, Nov. 05, 2020. https://medium.com/analytics-vidhya/morphological-transformations-of-images-using-opencv-image-processing-part-2-f64b14af2a38
+
+‌[8]
+
+https://facebook.com/coseriescommunity and https://facebook.com/coseriescommunity, “Morphological Transformations in Python using OpenCV,” coseries, Nov. 22, 2020. https://coseries.com/morphological-transformations-in-python-using-opencv/ (accessed Nov. 29, 2025).
+
+[9]
+
+P. Team, “Morphological Operations in OpenCV,” Python Geeks, Feb. 14, 2023. https://pythongeeks.org/morphological-operations-in-opencv/ (accessed Nov. 29, 2025).
+
+‌[10]
+
+“OpenCV Smoothing and Blurring,” PyImageSearch, Apr. 28, 2021. https://pyimagesearch.com/2021/04/28/opencv-smoothing-and-blurring/
+
+[11]
+
+A. Rosebrock, “Image inpainting with OpenCV and Python,” PyImageSearch, May 18, 2020. https://pyimagesearch.com/2020/05/18/image-inpainting-with-opencv-and-python/
+
+‌
+
